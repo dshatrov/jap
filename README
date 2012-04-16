@@ -1,0 +1,5 @@
+Just Another Portmapper
+
+To compile JAP type:
+	gcc -o jap jap.c -pthread
+
